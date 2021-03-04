@@ -5,5 +5,7 @@ CPU:	Intel Core i5 7200U
 
 Card đồ họa	Intel® HD Graphics 620
 
-Guide fix jack 3.5 + micro
+Guide fix jack 3.5 + micro: 
 https://github.com/hackintosh-stuff/ComboJack
+
+Owner: https://github.com/viincyy/hackintosh-dell-vostro-3568
